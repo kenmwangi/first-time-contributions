@@ -52,6 +52,6 @@ TASK TO COMPLETE:
 
 - [Ken Mwangi](https://github.com/kenmwangi)
 
-
+ [Wilson Gatheru](https://github.com/9wilson6)
 
 🥳 Hooray! Congratulations for contributing to this project
